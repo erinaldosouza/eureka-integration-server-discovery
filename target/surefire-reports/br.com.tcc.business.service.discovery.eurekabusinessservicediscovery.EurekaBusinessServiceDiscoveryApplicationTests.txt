@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: br.com.tcc.business.service.discovery.eurekabusinessservicediscovery.EurekaBusinessServiceDiscoveryApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.813 s <<< FAILURE! - in br.com.tcc.business.service.discovery.eurekabusinessservicediscovery.EurekaBusinessServiceDiscoveryApplicationTests
+initializationError(br.com.tcc.business.service.discovery.eurekabusinessservicediscovery.EurekaBusinessServiceDiscoveryApplicationTests)  Time elapsed: 0.016 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+

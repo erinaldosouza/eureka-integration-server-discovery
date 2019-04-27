@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: eureka-integration-service-discovery
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Erina
+Implementation-Vendor-Id: br.com.tcc
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/eureka-integration-service-discovery
+Created-By: Maven Integration for Eclipse
+
